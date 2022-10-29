@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "975549460764",
+    "project_id": "nearyou-b2185",
+    "storage_bucket": "nearyou-b2185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975549460764:android:e021c7a6de077c1d058ad9",
+        "android_client_info": {
+          "package_name": "com.aranguriapps.near_you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975549460764-s1titdmaoj4vefb2p98vr787cohqngoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtcnw9tLlzTaztOSdY4i2bC72w0i2mL6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975549460764-s1titdmaoj4vefb2p98vr787cohqngoe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975549460764-q2086tki5hmhlb56te5uo9n9epesgt5o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aranguriapps.nearYou"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
