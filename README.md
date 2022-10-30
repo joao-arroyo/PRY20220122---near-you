@@ -68,7 +68,7 @@ Este proyecto utiliza las siguientes Tecnologías.
 
 ## :white_check_mark: Requerimientos ##
 
-Antes de Comenzar :checkered_flag:, necesitas tener instalado [Git](https://git-scm.com), [Visual Studio Code](https://code.visualstudio.com/), [Flutter](https://flutter.dev/), [Android Studio](https://developer.android.com/studio) instalado.
+Antes de Comenzar :checkered_flag:, necesitas tener instalado [Git](https://git-scm.com), [Visual Studio Code](https://code.visualstudio.com/), [Flutter 3.0.5](https://flutter.dev/), [Android Studio](https://developer.android.com/studio) instalado.
 
 ## :checkered_flag: Comienzo ##
 
