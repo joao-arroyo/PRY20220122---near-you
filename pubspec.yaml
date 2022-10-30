@@ -18,7 +18,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.17.6 <3.0.0"
+  sdk: ">=2.17.0 <3.0.0"
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -34,17 +34,17 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  firebase_core: ^1.21.1
-  firebase_auth: ^3.7.0
-  cloud_firestore: ^3.4.6
+  firebase_core: ^2.1.1
+  firebase_auth: ^4.1.0
+  cloud_firestore: ^4.0.3
   calendar_timeline: ^1.0.5
   age_calculator: ^1.0.0
   device_preview: 1.1.0
   http: ^0.13.5
-  firebase_messaging: ^13.0.3
+  firebase_messaging: ^14.0.3
   awesome_notifications: ^0.6.19
   flutter_html: ^2.2.1
-  device_info_plus: ^7.0.1
+  device_info_plus: ^8.0.0
 
 dev_dependencies:
   flutter_test:
@@ -57,13 +57,13 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
 
-  flutter_svg: 0.22.0
+  flutter_svg: ^0.23.0+1
   intl: ^0.17.0
   shared_preferences: 2.0.15
   percent_indicator: ^4.2.2
   charts_flutter: ^0.12.0
   flutter_speed_dial: ^6.0.0
-  getwidget: ^2.0.4
+  getwidget: ^3.0.1
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
