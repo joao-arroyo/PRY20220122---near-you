@@ -44,7 +44,7 @@
 
 <br>
 
-## :dart: About ##
+## :dart: Sobre la aplicación ##
 
 Aplicación móvil para la gestión médica y adherencia de pacientes con diabetes
 
@@ -54,7 +54,7 @@ Aplicación móvil para la gestión médica y adherencia de pacientes con diabet
 :heavy_check_mark: Feature 2;\
 :heavy_check_mark: Feature 3;
 
-## :rocket: Technologies ##
+## :rocket: Tecnologías ##
 
 Este proyecto utiliza las siguientes Tecnologías.
 
@@ -65,35 +65,37 @@ Este proyecto utiliza las siguientes Tecnologías.
 - [Flutter Extension VSCode](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Requerimientos ##
 
 Antes de Comenzar :checkered_flag:, necesitas tener instalado [Git](https://git-scm.com), [Visual Studio Code](https://code.visualstudio.com/), [Flutter](https://flutter.dev/), [Android Studio](https://developer.android.com/studio) instalado.
 
-## :checkered_flag: Starting ##
+## :checkered_flag: Comienzo ##
 
-```bash
+```cmd
 # Clona este proyecto
 $ git clone https://github.com/joao-arroyo/pry20220122---near-you
+```
 
+```cmd
 # Ingresa a la carpeta del proyecto
 $ cd pry20220122---near-you
+```
 
+```cmd
 # Limpiamos el proyecto
 $ flutter clean
+```
 
 En caso que no se elimine el archivo pubspec.lock de manera automática, debe ser eliminado de manera manual.
 
 # Intalamos las dependencias
+```cmd
 $ flutter pub get
-
+```
+```
 # Inicializamos la aplicación
 $ flutter run
-
 ```
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 &#xa0;
 
