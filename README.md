@@ -88,11 +88,12 @@ $ flutter clean
 
 En caso que no se elimine el archivo pubspec.lock de manera automática, debe ser eliminado de manera manual.
 
-# Intalamos las dependencias
 ```cmd
+# Intalamos las dependencias
 $ flutter pub get
 ```
-```
+
+```cmd
 # Inicializamos la aplicación
 $ flutter run
 ```
