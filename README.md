@@ -36,6 +36,7 @@
   <a href="#dart-about">Sobre el proyecto</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Tecnologías</a> &#xa0; | &#xa0;
+  <a href="#robot-Algorithm">Algoritmo ML</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requerimientos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Comienzo</a> &#xa0; | &#xa0;
   <!-- 
