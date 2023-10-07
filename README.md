@@ -59,13 +59,16 @@ Aplicación móvil para la gestión médica y adherencia de pacientes con diabet
 
 Este proyecto utiliza las siguientes Tecnologías.
 
+
 - [Flutter](https://flutter.dev/)
 - [Firebase](https://firebase.google.com/)
 - [Android Studio](https://developer.android.com/studio)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Flutter Extension VSCode](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
-
+## :rocket: Algoritmo ML ##
+- [Google Collab](https://colab.research.google.com/drive/1ca6OMQ6NkuKKbISdP_XtKVE4bAcvVBS3?usp=sharing)
+  
 ## :white_check_mark: Requerimientos ##
 
 Antes de Comenzar :checkered_flag:, necesitas tener instalado [Git](https://git-scm.com), [Visual Studio Code](https://code.visualstudio.com/), [Flutter 3.0.5](https://flutter.dev/), [Android Studio](https://developer.android.com/studio) instalado.
