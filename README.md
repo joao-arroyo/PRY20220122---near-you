@@ -51,9 +51,9 @@ Aplicación móvil para la gestión médica y adherencia de pacientes con diabet
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1: Monitoreo y Control de Pacientes Diabeticos.
-:heavy_check_mark: Feature 2: Alertas por predicción de Adherencia.
-:heavy_check_mark: Feature 3: Visualización de información en tiempo real.
+:heavy_check_mark: Feature 1: Monitoreo y Control de Pacientes Diabeticos;\
+:heavy_check_mark: Feature 2: Alertas por predicción de Adherencia;\
+:heavy_check_mark: Feature 3: Visualización de información en tiempo real;\
 
 ## :rocket: Tecnologías ##
 
