@@ -55,7 +55,7 @@ Aplicación móvil para la gestión médica y adherencia de pacientes con diabet
 :heavy_check_mark: Feature 2: Alertas por predicción de Adherencia;\
 :heavy_check_mark: Feature 3: Visualización de información en tiempo real;\
 
-## :rocket: Tecnologías ##
+## :robot: Tecnologías ##
 
 Este proyecto utiliza las siguientes Tecnologías.
 
