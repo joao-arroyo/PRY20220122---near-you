@@ -55,7 +55,7 @@ Aplicación móvil para la gestión médica y adherencia de pacientes con diabet
 :heavy_check_mark: Feature 2: Alertas por predicción de Adherencia;\
 :heavy_check_mark: Feature 3: Visualización de información en tiempo real;\
 
-## :robot: Tecnologías ##
+## :rocket: Tecnologías ##
 
 Este proyecto utiliza las siguientes Tecnologías.
 
@@ -66,7 +66,7 @@ Este proyecto utiliza las siguientes Tecnologías.
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Flutter Extension VSCode](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
-## :rocket: Algoritmo ML ##
+## :robot: Algoritmo ML ##
 - [Google Collab](https://colab.research.google.com/drive/1ca6OMQ6NkuKKbISdP_XtKVE4bAcvVBS3?usp=sharing)
   
 ## :white_check_mark: Requerimientos ##
